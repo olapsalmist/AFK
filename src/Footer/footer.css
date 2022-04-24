@@ -1,0 +1,29 @@
+.foot{
+  background-color: rgb(180, 117, 39);
+  height: 40px;
+  font-size: 30px;
+}
+
+.foot .footnav{
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footnav p{
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+ul{
+  height: 100%;
+  display: flex;
+  list-style: none;
+}
+
+.footnav img{
+  height: 40px;
+  margin: 0px 20px 0px 10px;
+}
